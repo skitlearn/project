@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0713b9f2-5589-415e-828a-329db05a22e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/README" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/avilib.c" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/avilib.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/avilib.h" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/avilib.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/button.h" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/button.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/color.c" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/color.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/color.h" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/color.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/dynctrl-logitech.h" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/dynctrl-logitech.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/gui.c" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/gui.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/gui.h" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/gui.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/huffman.h" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/huffman.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/luvcview.c" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/luvcview.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/luvcview.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/luvcview.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/utils.c" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/utils.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/utils.h" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/utils.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/uvc_compat.h" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/uvc_compat.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/uvcvideo.h" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/uvcvideo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/v4l2uvc.c" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/v4l2uvc.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luvcview/v4l2uvc.h" beforeDir="false" afterPath="$PROJECT_DIR$/../luvcview/v4l2uvc.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoilDetectorLab.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoilDetectorLab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/denoiseSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/denoiseSet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainwindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainwindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelPredict.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelPredict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/preprocess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regression.old.py" beforeDir="false" afterPath="$PROJECT_DIR$/regression.old.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/soilDetectorGauss.py" beforeDir="false" afterPath="$PROJECT_DIR$/soilDetectorGauss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/soilMonitorLog.py" beforeDir="false" afterPath="$PROJECT_DIR$/soilMonitorLog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raspberry/raspberry.py" beforeDir="false" afterPath="$PROJECT_DIR$/../raspberry/raspberry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../takePictures/photograph.py" beforeDir="false" afterPath="$PROJECT_DIR$/../takePictures/photograph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/Huffman.py" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/Huffman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/HuffmanCoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/HuffmanCoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/cal_hum.py" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/cal_hum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/data_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/data_visual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/denoise.py" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/denoise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/frequency_statics_for_huffman.py" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/frequency_statics_for_huffman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/lab2gray.py" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/lab2gray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/mass_calcMeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/mass_calcMeans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/plot_lasso_coordinate_descent_path.py" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/plot_lasso_coordinate_descent_path.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/plot_ridge_path.py" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/plot_ridge_path.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/preprocess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/sim_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/sim_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/sim_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/sim_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/soilMonitor.log" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/soilMonitor.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/updata/hum_Lab_qian_mdf.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/updata/hum_Lab_qian_mdf.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/updata/hum_Lab_qian_mdf_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/updata/hum_Lab_qian_mdf_1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/updata/hum_Lab_qian_mdf_high.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/updata/hum_Lab_qian_mdf_high.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/updata/hum_Lab_qian_mdf_low.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/updata/hum_Lab_qian_mdf_low.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/updata/hum_gray.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/updata/hum_gray.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/updata/hum_gray_jiangshu.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/updata/hum_gray_jiangshu.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/updata/hum_lab.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/updata/hum_lab.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/updata/hum_lab_sim.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/updata/hum_lab_sim.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/updata/sim_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/updata/sim_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/updata/sim_data_high.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/updata/sim_data_high.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/updata/sim_data_low.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/updata/sim_data_low.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/updata/w_Lab_qian.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/updata/w_Lab_qian.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utility/updata/weight_lab.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../utility/updata/weight_lab.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1qnW63ZwJeVwFopyQu88mqU6KWx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="mainwindow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="monitor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mainwindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mainwindow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0713b9f2-5589-415e-828a-329db05a22e8" name="Default Changelist" comment="" />
+      <created>1567185766985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567185766985</updated>
+    </task>
+    <servers />
+  </component>
+</project>
